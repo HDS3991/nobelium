@@ -2,7 +2,7 @@ const BLOG = {
   title: '拾贝壳',
   author: '孙东辉',
   email: 'sundonghuichina@gmail.com',
-  link: 'https://sundonghui.notion.site/',
+  link: 'https://sun-donghui.notion.site/',
   description: '我不知道这个世界将来怎么看我，对我而言，我只像海滩边玩耍的男孩，偶然间发现了一粒比较圆的石头，和一粒比较漂亮的贝壳，就觉得很愉快，但是在我前面，尚未被发现的石头、贝壳仍然多如大海。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
